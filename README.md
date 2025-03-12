@@ -3,7 +3,7 @@
 A simple Weather App built with React.js that fetches real-time weather data using OpenWeather API.
 
 ##  Live Demo
- [Click Here to View Live](https://github.com/saisaraswathi123/Weather-App/)  
+ [Click Here to View Live](https://saisaraswathi123.github.io/Weather-App/)  
 
 ##  Features
 ✔ Search weather by city  
