@@ -30,5 +30,3 @@ npm install
 3️⃣ Run the App
 
 npm start
-
-Your app will be available at http://localhost:3000
